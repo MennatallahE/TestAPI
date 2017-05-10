@@ -8,5 +8,6 @@ namespace MyAPI.Models
     public class Class2
     {
         public int id { get; set; }
+        public string name { get; set; }
     }
 }
