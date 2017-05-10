@@ -8,5 +8,6 @@ namespace MyAPI.Models
     public class Child: ApplicationUser
     {  
         public string Name { get; set; }
+        public int salary { get; set; }
     }
 }
