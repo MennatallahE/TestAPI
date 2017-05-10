@@ -7,7 +7,7 @@ namespace MyAPI.Models
 {
     public class Child: ApplicationUser
     {  
-        public string Name { get; set; }
-        public string MyProperty { get; set; }
+        public int age { get; set; }
+        public int bd { get; set; }
     }
 }
