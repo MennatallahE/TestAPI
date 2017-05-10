@@ -9,6 +9,5 @@ namespace MyAPI.Models
     {  
         public string age { get; set; }
         public DateTime bd { get; set; }
-        public string day { get; set; }
     }
 }
